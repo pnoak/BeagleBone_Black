@@ -1,4 +1,4 @@
-# 1. Host Interface 
+# 1. Host Interface
 HOST_IF="wlp0s20f3"
 # 2. BB Interface 
 BBB_IF="enxb894d905e967"
